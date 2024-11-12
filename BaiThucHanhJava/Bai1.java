@@ -30,3 +30,4 @@ public class Bai1 {
         System.out.println(arr);
     }
 }
+đang test bài mới
